@@ -1,6 +1,6 @@
 # 💫 Hi, Jackson here:
 [![it](https://img.shields.io/badge/lang-it-green.svg)]()<br>
-🔭 I’m currently working on Business Central form my employers 🧑🏻‍💼<br>👯 I’m looking to collaborate on Obsidian Repos for RPGs 🐉<br>🤝 I’m looking for help with AI developement and hints on improve myself about it 🤖<br>🌱 I’m currently learning AI developement<br>💬 Ask me about collab, especially on Open Source projects 🔐<br>⚡ Fun fact I'm almost an engineer
+🔭 I’m currently working on Business Central for my employers 🧑🏻‍💼<br>👯 I’m looking to collaborate on Obsidian Repos for RPGs 🐉<br>🤝 I’m looking for help with AI developement and hints on improve myself about it 🤖<br>🌱 I’m currently learning AI developement<br>💬 Ask me about collab, especially on Open Source projects 🔐<br>⚡ Fun fact I'm almost an engineer
 
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@@jackson@union.place) 
