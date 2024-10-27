@@ -1,5 +1,5 @@
 # 💫 Hi, Jackson here:
-[![it](https://img.shields.io/badge/lang-it-green.svg)]()<br>
+[![it](https://img.shields.io/badge/lang-it-green.svg)](https://github.com/Jackson98Tomphson/Jackson98Tomphson/blob/main/README.it.md)<br>
 🔭 I’m currently working on Business Central for my employers 🧑🏻‍💼<br>👯 I’m looking to collaborate on Obsidian Repos for RPGs 🐉<br>🤝 I’m looking for help with AI developement and hints on improve myself about it 🤖<br>🌱 I’m currently learning AI developement<br>💬 Ask me about collab, especially on Open Source projects 🔐<br>⚡ Fun fact I'm almost an engineer
 
 ## 🌐 Socials:
